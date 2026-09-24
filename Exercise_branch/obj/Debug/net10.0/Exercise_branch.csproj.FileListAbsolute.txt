@@ -1,0 +1,14 @@
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\bin\Debug\net10.0\Exercise_branch.exe
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\bin\Debug\net10.0\Exercise_branch.deps.json
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\bin\Debug\net10.0\Exercise_branch.runtimeconfig.json
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\bin\Debug\net10.0\Exercise_branch.dll
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\bin\Debug\net10.0\Exercise_branch.pdb
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.AssemblyInfoInputs.cache
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.AssemblyInfo.cs
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.csproj.CoreCompileInputs.cache
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.dll
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\refint\Exercise_branch.dll
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.pdb
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\Exercise_branch.genruntimeconfig.cache
+C:\Users\Feath\source\ChasAcademy\Uppgifter\Exercise_branch\Exercise_branch\obj\Debug\net10.0\ref\Exercise_branch.dll
